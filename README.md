@@ -148,9 +148,6 @@ I attended this project and wrote smart contract and supported on back-end/front
   - backend repo: <a href="https://github.com/microgift/monopoly-backend">monopoly-backend</a>
   - frontend repo: <a href="https://github.com/microgift/monopoly-frontend">monopoly-frontend</a>
 
-
-
-
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
