@@ -15,9 +15,7 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 
 - Live: <a href="https://app.ape.lol/">app.ape.lol</a>
 - Live: <a href="https://fairlaunch.kommunitas.net/">fairlaunch.kommunitas.net</a>
-- Frontend repo: <a href="https://github.com/raysmith113/pump-fun-frontend">pumpdotfun-frontend</a>
-- Backend repo: <a href="https://github.com/raysmith113/pump-fun-backend">pumpdotfun-backend</a>
-- Smart contract repo: <a href="https://github.com/raysmith113/pump-fun-smart-contract">pumpdotfun-smart-contract</a>
+- Smart contract repo: <a href="https://github.com/raysmith113/pumpfun_smartcontract">pumpdotfun-smart-contract</a>
 
 <h3><u><strong><i>Delta neutral strategy(on progress)</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
