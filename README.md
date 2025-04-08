@@ -15,9 +15,9 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 
 - Live: <a href="https://app.ape.lol/">app.ape.lol</a>
 - Live: <a href="https://fairlaunch.kommunitas.net/">fairlaunch.kommunitas.net</a>
-- Frontend repo: <a href="https://github.com/m8s-lab/pump-fun-frontend">pumpdotfun-frontend</a>
-- Backend repo: <a href="https://github.com/m8s-lab/pump-fun-backend">pumpdotfun-backend</a>
-- Smart contract repo: <a href="https://github.com/m8s-lab/pump-fun-smart-contract">pumpdotfun-smart-contract</a>
+- Frontend repo: <a href="https://github.com/raysmith113/pump-fun-frontend">pumpdotfun-frontend</a>
+- Backend repo: <a href="https://github.com/raysmith113/pump-fun-backend">pumpdotfun-backend</a>
+- Smart contract repo: <a href="https://github.com/raysmith113/pump-fun-smart-contract">pumpdotfun-smart-contract</a>
 
 <h3><u><strong><i>Delta neutral strategy(on progress)</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -27,13 +27,13 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 <div>- Built smart contract for testing jupiter cpi, meteora cpi, drift cpi.</div>
 <div>- Built frontend/backend to check the result of delta neutral strategy.</div>
 
-- Frontend repo: <a href="https://github.com/microgift/delta-neutral-fe">delta-neutral-frontend</a>
-- Backend repo: <a href="https://github.com/microgift/delta-neutral">delta-neutral-backend</a>
+- Frontend repo: <a href="https://github.com/raysmith113/delta-neutral-fe">delta-neutral-frontend</a>
+- Backend repo: <a href="https://github.com/raysmith113/delta-neutral">delta-neutral-backend</a>
 
 <h3><u><strong><i>Pioneer Legends</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/e97e2418-d009-48a0-a7ee-b52731ab3fa3">
+<img align="right" width="300px" src="https://github.com/raysmith113/web3-developer-solana-evm-etc/assets/127183857/e97e2418-d009-48a0-a7ee-b52731ab3fa3">
 <div>This is the first idle game on SOL or any chain backed by three revenue sources, which include IRL crypto mining, Defi, and Taxes, with rev share to all NFT holders.</div>
 <div>- Built smart contracts for staking, nft lending platform(similar to sharky.fi).</div>
 <div>- Built backend for staking.</div>
@@ -43,61 +43,61 @@ As you can see here, I have participated in several DeFi, NFT projects on vairou
 - Frontend repo: <a href="https://github.com/pioneerlegends/pioneer-legends-frontend">Pioneer-legends-frontend</a>
 - Backend repo: <a href="https://github.com/pioneerlegends/pioneer-legends-backend">Pioneer-legends-backend</a>
 - Whitepaper repo: <a href="https://github.com/pioneerlegends/pioneer-legends-whitepaper">Pioneer-legends-whitepaper</a>
-- Smart contract repo: <a href="https://github.com/microgift/pioneerlegends-bank-sc">Pioneer-legends-bank-sc</a>
+- Smart contract repo: <a href="https://github.com/raysmith113/pioneerlegends-bank-sc">Pioneer-legends-bank-sc</a>
 
 
 <h3><u><strong><i>Reavers</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/9bec93a5-b753-4bdf-8bf4-4c6c15ce87b9">
+<img align="right" width="300px" src="https://github.com/raysmith113/web3-developer-solana-evm-etc/assets/127183857/9bec93a5-b753-4bdf-8bf4-4c6c15ce87b9">
 <div>Reavers is more than just an idle game at the core. Reavers was engineered with an overarching theme that is as simple as it gets.</div>
 <div>- Audited, found & fix vulnerabilities in whole project wide.</div>
 <div>- Optimized database calls.</div>
 
 - Live: <a href="https://reavers.xyz">Reavers</a>
-- Frontend repo: <a href="https://github.com/microgift/Reavers">Reavers-frontend</a>
-- Backend repo: <a href="https://github.com/microgift/reavers-cloud-functions">Reavers-backend</a>
+- Frontend repo: <a href="https://github.com/raysmith113/Reavers">Reavers-frontend</a>
+- Backend repo: <a href="https://github.com/raysmith113/reavers-cloud-functions">Reavers-backend</a>
 
 
 <h3><u><strong><i>Bulls vs Bears</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/96d60691-c32c-4633-a7c3-fbb08bda1df9">
+<img align="right" width="300px" src="https://github.com/raysmith113/web3-developer-solana-evm-etc/assets/127183857/96d60691-c32c-4633-a7c3-fbb08bda1df9">
 
 <div>Lead poker platform development.</div>
 
 - Live: <a href="https://goalpost.gg">BvB Goalpost</a>
-- Frontend repo: <a href="https://github.com/microgift/goal-post-frontend">Goalpost-frontend</a>
-- Backend repo: <a href="https://github.com/microgift/goal-post-backend">Goalpost-backend</a>
-- Socket repo: <a href="https://github.com/microgift/goal-post-socket">Goalpost-socket</a>
-- Contract repo: <a href="https://github.com/microgift/goal-post-contract">Goalpost-contract</a>
+- Frontend repo: <a href="https://github.com/raysmith113/goal-post-frontend">Goalpost-frontend</a>
+- Backend repo: <a href="https://github.com/raysmith113/goal-post-backend">Goalpost-backend</a>
+- Socket repo: <a href="https://github.com/raysmith113/goal-post-socket">Goalpost-socket</a>
+- Contract repo: <a href="https://github.com/raysmith113/goal-post-contract">Goalpost-contract</a>
 
 <h3><u><strong><i>Sprite Box</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/6c25a679-bdfb-4cec-aeff-4ee85c803214">
+<img align="right" width="300px" src="https://github.com/raysmith113/web3-projects-overview/assets/127183857/6c25a679-bdfb-4cec-aeff-4ee85c803214">
 
 Gift for pixel artists.
 Spritebox is a minting platform that pixel artists can send there arts every week and users can mint the seleted great arts among them.
 
 - Live: <a href="https://spritebox.art">Spritebox</a>
 - Live backend: <a href="https://api.spritebox.art">Spritebox backend</a>
-- Frontend repo: <a href="https://github.com/microgift/spritebox">Spritebox-frontend</a>
-- Backend repo: <a href="https://github.com/microgift/sprite-box-backend">Spritebox-brontend</a>
+- Frontend repo: <a href="https://github.com/raysmith113/spritebox">Spritebox-frontend</a>
+- Backend repo: <a href="https://github.com/raysmith113/sprite-box-backend">Spritebox-brontend</a>
 
 
 <h3><u><strong><i>The Hoopas</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/ac4fefd7-0ee5-445d-aec2-8856487d0ac0">
+<img align="right" width="300px" src="https://github.com/raysmith113/web3-projects-overview/assets/127183857/ac4fefd7-0ee5-445d-aec2-8856487d0ac0">
 
 Successfully audited backend.
 Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6 months.
 
 - Live: <a href="https://dev.d3c0jk89ozv3l5.amplifyapp.com">The Hoopas</a>
 - Staking: <a href="https://lock.3pixl.com">The Hoopas Locking</a>
-- Contract program repo: <a href="https://github.com/microgift/hoopas-staking">Hoopas-lock-contract</a>
-- Frontend repo: <a href="https://github.com/microgift/hoopas">Hoopas-lock-frontend</a>
+- Contract program repo: <a href="https://github.com/raysmith113/hoopas-staking">Hoopas-lock-contract</a>
+- Frontend repo: <a href="https://github.com/raysmith113/hoopas">Hoopas-lock-frontend</a>
 
 <br/>
 
@@ -107,14 +107,14 @@ Built a site for locking Hoopas and Banana collection for 1 month, 3 months or 6
 This is a Lootbox game for `TombStoned`.
 There are 4 coffins in the game. 2 for SOL, 1 for $JOINTS. And the last coffins is a free one that `TombStone HighSociety` holders can open once in a day.
 
-<img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/38edc2ad-1cac-412a-b555-af16a3719d99">
+<img align="right" width="300px" src="https://github.com/raysmith113/web3-projects-overview/assets/127183857/38edc2ad-1cac-412a-b555-af16a3719d99">
 
 I built backend & smart contract as well as supported web3 integration to front-end.
 
 - Live: <a href="https://coffins.tombstoned.app/">Coffins - LootBox | TombStoned</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/microgift/tombstoned-lootbox-backend">Tombstoned-lootbox-backend</a>
-  - contract program repo: <a href="https://github.com/microgift/tombstoned-lootbox-program">Tombstoned-lootbox-program</a>
+  - backend repo: <a href="https://github.com/raysmith113/tombstoned-lootbox-backend">Tombstoned-lootbox-backend</a>
+  - contract program repo: <a href="https://github.com/raysmith113/tombstoned-lootbox-program">Tombstoned-lootbox-program</a>
 
 
 
@@ -122,14 +122,14 @@ I built backend & smart contract as well as supported web3 integration to front-
 <hr />
 
 This is a non-custodial staking for `Soblins` - a bluechip NFT collection on Solana network.
-<img align="right" width="300px" src="https://github.com/microgift/web3-projects-overview/assets/127183857/3195955d-48f3-403e-a2c1-47678ffd0b09">
+<img align="right" width="300px" src="https://github.com/raysmith113/web3-projects-overview/assets/127183857/3195955d-48f3-403e-a2c1-47678ffd0b09">
 
 I wrote smart contract and supported web3 integration to front-end.
 
 - Live: <a href="https://staking.soblins.io">Soblins staking</a>
 - Github repos: 
-  - smart contract repo: <a href="https://github.com/microgift/SoblinsStaking-SC">SoblinsStaking-contract</a>
-  - frontend repo: <a href="https://github.com/microgift/SoblinsStaking-FE">SoblinsStaking-frontend</a>
+  - smart contract repo: <a href="https://github.com/raysmith113/SoblinsStaking-SC">SoblinsStaking-contract</a>
+  - frontend repo: <a href="https://github.com/raysmith113/SoblinsStaking-FE">SoblinsStaking-frontend</a>
 
 
 <h3><u><strong><i>Monopoly</i></strong></u> &nbsp;(Solana)</h3>
@@ -144,9 +144,9 @@ I attended this project and wrote smart contract and supported on back-end/front
 
 - Live: <a href="https://www.monopoly.cafe">Monopoly</a>
 - Github repos: 
-  - smart contract repo: <a href="https://github.com/microgift/monopoly-program">monopoly-program</a>
-  - backend repo: <a href="https://github.com/microgift/monopoly-backend">monopoly-backend</a>
-  - frontend repo: <a href="https://github.com/microgift/monopoly-frontend">monopoly-frontend</a>
+  - smart contract repo: <a href="https://github.com/raysmith113/monopoly-program">monopoly-program</a>
+  - backend repo: <a href="https://github.com/raysmith113/monopoly-backend">monopoly-backend</a>
+  - frontend repo: <a href="https://github.com/raysmith113/monopoly-frontend">monopoly-frontend</a>
 
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
@@ -159,22 +159,22 @@ Degen Taxi proves that the odds are as advertised (5% house edge) and that the r
 
 - Live: <a href="https://degentaxi.io">Degen Taxi</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/microgift/taxi-crash-solana-backend">taxi-crash-solana-backend</a>
-  - smart contract repo: <a href="https://github.com/microgift/taxi-crash-solana-contract">taxi-crash-solana-contract</a>
-  - frontend repo: <a href="https://github.com/microgift/degen-taxi-frontend">degen-taxi-frontend</a>
+  - backend repo: <a href="https://github.com/raysmith113/taxi-crash-solana-backend">taxi-crash-solana-backend</a>
+  - smart contract repo: <a href="https://github.com/raysmith113/taxi-crash-solana-contract">taxi-crash-solana-contract</a>
+  - frontend repo: <a href="https://github.com/raysmith113/degen-taxi-frontend">degen-taxi-frontend</a>
 
 
 
 <h3><u><strong><i>CoinFlip</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
 
-<img align="right" width="300px" src="https://github.com/microgift/web3-developer-solana-evm-etc/assets/127183857/d0542922-0cd3-4ffb-acf1-70d5112aaa1a">
+<img align="right" width="300px" src="https://github.com/raysmith113/web3-developer-solana-evm-etc/assets/127183857/d0542922-0cd3-4ffb-acf1-70d5112aaa1a">
 
 This is coin-flip game on solana network. Payment is Sol and users can put their amount in this game. If he is winner, he can get twice of given amount, if not, he will lose his amount.
 <div>Handled all project development.</div>
 <div>Hosted to plesk</div>
 
 - Live: <a href="https://flip.baby">ATOZ CoinFlip</a>
-- Frontend repo: <a href="https://github.com/microgift/atoz-coinflip-frontend">coinflip-frontend</a>
-- Smartcontract repo: <a href="https://github.com/microgift/atoz-coinflip-contract">coinflip-smartcontract</a>
+- Frontend repo: <a href="https://github.com/raysmith113/atoz-coinflip-frontend">coinflip-frontend</a>
+- Smartcontract repo: <a href="https://github.com/raysmith113/atoz-coinflip-contract">coinflip-smartcontract</a>
 
